@@ -1,4 +1,4 @@
-# Fencing-AI-Datasets
+# Fencing AI Datasets
 
 Last researched: **June 20, 2026**.
 
